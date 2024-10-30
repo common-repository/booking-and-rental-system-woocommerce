@@ -1,0 +1,445 @@
+# Copyright (C) 2023 RedQ Team
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: RnB Booking and Rental System (Woocommerce) 2.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/booking-and-rental-system-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-26T07:30:21+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: rnb-lite\n"
+
+#. Plugin Name of the plugin
+msgid "RnB Booking and Rental System (Woocommerce)"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://demo.redq.io/rnb/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WooCommerce based rental & plugin. You can create any date or date range based booking with this plugin."
+msgstr ""
+
+#. Author of the plugin
+msgid "RedQ Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://redq.io/"
+msgstr ""
+
+#: includes/Admin/Menu.php:23
+#: includes/Admin/Menu.php:24
+msgid "RnB Extensions"
+msgstr ""
+
+#: includes/Admin/Menu.php:40
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/Admin/Product_Meta_Boxes.php:29
+msgid "Rental Product"
+msgstr ""
+
+#: includes/Admin/Product_Meta_Boxes.php:42
+msgid "Extra Options"
+msgstr ""
+
+#: includes/Admin/Product_Meta_Boxes.php:48
+msgid "Price Calculation"
+msgstr ""
+
+#: includes/Admin/Product_Meta_Boxes.php:54
+msgid "Availability"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:4
+msgid "Pro Version"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:5
+msgid "RnB Pro Version"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:8
+msgid "RnB - WooCommerce Booking & Rental Plugin"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:11
+#: includes/Admin/views/admin-rnb-addons.php:27
+#: includes/Admin/views/admin-rnb-addons.php:37
+#: includes/Admin/views/admin-rnb-addons.php:47
+#: includes/Admin/views/admin-rnb-addons.php:57
+#: includes/Admin/views/admin-rnb-addons.php:68
+#: includes/Admin/views/admin-rnb-addons.php:78
+#: includes/Admin/views/admin-rnb-addons.php:88
+msgid "Extension of <strong>WooCommerce Rental & Booking Plugin</strong>"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:12
+msgid "WooCommerce Booking and Rental Plugin help you to build your booking business, it’s super easy to install and setup. You will able to rent like cars, bike, dress, tools, gadgets, etc. This is one of the best selling WooCommerce Booking Plugin. This allows you to add unlimited rental products, gives you the option to set your own pricing along with maintaining & blocking calendar. It has “request for quote” section too."
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:20
+msgid "Addons"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:21
+msgid "RnB Addons"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:24
+msgid "RnB Seasonal Pricing (Add-ons)"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:28
+msgid "The Seasonal pricing add-on allows you to charge promotional/seasonal pricing for specific date range of any rental product. This enables admin to configure pricing very easily based on different criteria. This is a simple and easy to use add-on perfect for your business if your price changes for peak and off-peak season."
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:34
+msgid "RnB Backend Booking (Add-ons)"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:38
+msgid "R&B Backend Booking is an extension of WooCommerce and WooCommerce Rental & Booking plugin. It allows admin to create a rental order from WordPress admin. It provides all the features that is available in RnB front-end booking plugin. This plugin will help admin to create both online and offline booking business."
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:44
+msgid "RnB Extend Order (Add-on)"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:48
+msgid "R&B extend order plugin is an extension of WooCommerce and WooCommerce Rental & Booking plugin . It allows customer to extend a rental order from wooCommerce my account page. This plugin will help customer to extend their existing booking depending on its availability, it’s super easy to install and setup. Customer will able to extend a rental order for cars, bike, dress, tools, gadgets, etc."
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:54
+msgid "Inspect - RNB Search & Filter (Add-ons)"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:58
+msgid "Inspect is an Add-ons of WooCommerce and WooCommerce Rental & Booking plugin. Inspect is a user-friendly search and filter extension for your Rental and Booking site. It works as an extension for RnB – WooCommerce plugin. Inspect allows you to generate shortcodes for advanced search forms and filters. It comes with the following options: Generate Search Form shortcode Generate Listing (Search Result) Shortcode."
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:64
+msgid ""
+"RnB - Extra Product Options (Add-on)\n"
+"                "
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:69
+msgid "RnB extra product options is an extension of WooCommerce and WooCommerce Rental & Booking plugin. It allows customer to add extra fields fields in booking & rental form. Before installing this plugin, please make sure you’ve installed required plugins. Otherwise this plugin will not work and you’ll get warning message in WordPress admin area."
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:75
+msgid "Rental Invoice - PDF Invoice For RnB & WooCommerce"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:79
+msgid "Rental Invoice – PDF Invoice for RnB & wooCommerce is an extension for RnB and wooCommerce plugin that can be useful for businesses that need to provide customers with a printable invoice for their purchases or bookings. With this extension, you can generate PDF invoices from both the back-end (admin area) and front-end (customer area) of your website, which can help streamline the invoicing process and improve customer experience. When a customer places an order, the invoice is also sent as an email attachment."
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:85
+msgid "RnB Builder - Product Single Page Builder for RnB (Add-on)"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:89
+msgid "RnB Builder is an extension of WooCommerce and WooCommerce Rental & Booking plugins . It allows a customer to build any product single page without headache. It’s very easy to use and comes with a lot of powerful design control and animations. We have provided support for some of the most popular website builders in the market today like Elementor Pro Builder, Gutenberg Builder, Divi Builder, and Oxygen Builder with that. The  RnB Builder add-on ensures that businesses can customize their website easily and quickly, without having to spend time on coding or hiring a developer."
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:97
+msgid "Themes"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:98
+msgid "RnB Compatible Themes"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:101
+msgid "Cartsy - WooCommerce WordPress Theme"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:104
+msgid "WordPress Theme build on the top of <strong>WooCommerce</strong>"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:105
+msgid "Create your online shop with our fully functional WordPress E-commerce. Cartsy is a highly intuitive WooCommerce theme that will handle all your online business needs. Start selling anything and everything today."
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:111
+msgid "Turbo - WooCommerce Rental & Booking Theme"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:114
+msgid "WordPress Theme Build on the top of <strong>WooCommerce Rental & Booking Plugin"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:115
+msgid "Turbo is an user-friendly car booking WordPress theme alternatively, car rental WordPress theme crafted with , WooCommerce booking plugin, visual composer, and multilingual.This theme allows you to book or rent your date-based or time-based car booking. It creates a new product type to your WooCommerce site. Perfect for those wanting to offer rental or booking."
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:127
+msgid "Extend your booking features with RnB products."
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:154
+msgid "RnB Seasonal Pricing"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:160
+msgid "Live Preview"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:161
+msgid "Documentation"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:162
+msgid "Video Tutorial"
+msgstr ""
+
+#: includes/Admin/views/admin-rnb-addons.php:163
+msgid "Buy Now"
+msgstr ""
+
+#: includes/Admin/views/html-additional-feature-meta.php:16
+#: includes/Admin/views/html-attribute-info-meta.php:27
+msgid "Remove"
+msgstr ""
+
+#: includes/Admin/views/html-additional-feature-meta.php:18
+#: includes/Admin/views/html-attribute-info-meta.php:29
+msgid "Toggle panel: Product Image"
+msgstr ""
+
+#: includes/Admin/views/html-additional-feature-meta.php:19
+#: includes/Admin/views/html-attribute-info-meta.php:30
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/Admin/views/html-additional-feature-meta.php:31
+#: includes/Admin/views/html-additional-feature-meta.php:32
+msgid "Feature Name"
+msgstr ""
+
+#: includes/Admin/views/html-attribute-info-meta.php:41
+#: includes/Admin/views/html-attribute-info-meta.php:42
+msgid "Attribute Name"
+msgstr ""
+
+#: includes/Admin/views/html-attribute-info-meta.php:51
+msgid "Attribute Value"
+msgstr ""
+
+#: includes/Admin/views/html-attribute-info-meta.php:52
+msgid "attribute value"
+msgstr ""
+
+#: includes/Admin/views/html-attribute-info-meta.php:61
+msgid "Font Awesome Icon Name"
+msgstr ""
+
+#: includes/Admin/views/html-own-availability.php:12
+msgid "Custom date range"
+msgstr ""
+
+#: includes/Admin/views/html-own-availability.php:29
+msgid "Not"
+msgstr ""
+
+#: includes/Admin/views/html-own-availability.php:30
+msgid "Yes"
+msgstr ""
+
+#: includes/Admin/views/html-own-availability.php:34
+msgid "delete"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:74
+msgid "Set Price Type"
+msgstr ""
+
+#. translators: %s: Instruction to choose price type
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:76
+msgid "Choose a price type - this controls the <a href=\"%s\">schema</a>."
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:78
+msgid "General Pricing"
+msgstr ""
+
+#. translators: %s: Instructions to visit link to know more about pricing plans
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:85
+msgid "Premium Version"
+msgstr ""
+
+#. translators: %s: Instructions to visit link to know more about pricing plans
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:85
+msgid "For More Pricing Plans & Others Amazing Features, Please Visit <a href=\"%1$s\" target=\"_blank\"> "
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:94
+msgid "Hourly Price"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:95
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:114
+msgid "Enter price here"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:97
+msgid "Hourly price will be applicabe if booking or rental days less than 1day"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:108
+msgid "Set general pricing plan"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:113
+msgid "General Price"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:128
+msgid "Product Availabilities"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:136
+msgid "Range type"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:137
+msgid "From"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:138
+msgid "To"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:139
+msgid "Bookable"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:139
+msgid "Please select the date range for which you want the product to be disabled."
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:151
+msgid "Add Dates"
+msgstr ""
+
+#: includes/Admin/views/redq-rental-additional-tabs-panel.php:152
+msgid "Please select the date range to be disabled for the product."
+msgstr ""
+
+#: includes/Hooks.php:55
+msgid "/day"
+msgstr ""
+
+#: includes/Product_Cart.php:114
+msgid "Pickup Date"
+msgstr ""
+
+#: includes/Product_Cart.php:122
+msgid "Pickup Time"
+msgstr ""
+
+#: includes/Product_Cart.php:130
+msgid "Dropoff Date"
+msgstr ""
+
+#: includes/Product_Cart.php:138
+msgid "DropOff Time"
+msgstr ""
+
+#: includes/Product_Cart.php:147
+msgid "Total Days"
+msgstr ""
+
+#: includes/Product_Cart.php:153
+msgid "Total Hours"
+msgstr ""
+
+#: includes/Tabs.php:27
+#: includes/Tabs.php:50
+msgid "Attributes"
+msgstr ""
+
+#: includes/Tabs.php:36
+#: includes/Tabs.php:71
+msgid "Additional Features"
+msgstr ""
+
+#: includes/views/pricing-info.php:3
+msgid "Pricing Info"
+msgstr ""
+
+#: includes/views/pricing-info.php:4
+msgid "Pricing for"
+msgstr ""
+
+#: includes/views/pricing-info.php:7
+msgid "General pricing"
+msgstr ""
+
+#: includes/views/pricing-info.php:9
+msgid "/days"
+msgstr ""
+
+#: includes/views/pricing-info.php:13
+msgid "Hourly pricing"
+msgstr ""
+
+#: includes/views/pricing-info.php:15
+msgid "/per hour"
+msgstr ""
+
+#. translators: %s: Notice about required plugins
+#: rnb-lite.php:39
+msgid "RnB Lite requires \"WooCommerce\" to be installed and active. You can download <a href=\"%s\" target=\"_blank\">WooCommerce</a> from here."
+msgstr ""
+
+#: rnb-lite.php:187
+msgid "Get Premium Version"
+msgstr ""
+
+#: rnb-lite.php:189
+msgid "Compatible WP Theme"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:25
+msgid "Pickup Date & Time"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:28
+msgid "Pick-up date"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:32
+msgid "Pick-up time"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:37
+msgid "Drop-off Date & Time"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:40
+msgid "Drop-off date"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:44
+msgid "drop-up time"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:52
+msgid "Total Booking Cost : "
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:56
+msgid "Book Now"
+msgstr ""

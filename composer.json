@@ -1,0 +1,25 @@
+{
+  "name": "wordpress/rnb-lite",
+  "description": "WooCommerce based rental & plugin. You can create any date or date range based booking with this plugin.",
+  "type": "wordpress-plugin",
+  "license": "GPLv2",
+  "authors": [
+    {
+      "name": "wildrain",
+      "email": "roman.ul.ferdosh@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "RnbLite\\": "includes/"
+    },
+    "files": [
+      "includes/functions.php"
+    ]
+  },
+  "config": {
+    "platform-check": false
+  }
+}
